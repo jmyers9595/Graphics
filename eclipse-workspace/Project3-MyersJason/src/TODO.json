@@ -1,0 +1,44 @@
+{
+"Lab Section": <11>,
+"Last Modified": <2018-10-12>,
+"OU ID": <113411510>,
+"OU EMAIL": <Jason.Myers-1@ou.edu>,
+"Tasks": [
+{
+"Description": <Build Ticket Class>,
+"Estimated Time (Minutes)": <20>
+"Actual Time (Minutes)": <15>
+},
+{
+"Description": <Build Restaurant Class>,
+"Estimated Time (Minutes)": <10>
+"Actual Time (Minutes)": <10>
+},
+{
+"Description": <Build QueueRestaurnt and all setters>,
+"Estimated Time (Minutes)": <10>
+"Actual Time (Minutes)": <10>
+},
+{
+"Description": <Build QueueRestaurant currentlist and completeTicket>,
+"Estimated Time (Minutes)": <25>
+"Actual Time (Minutes)": <60>
+},
+{
+"Description": <Build StackRestaurant and all set methods>,
+"Estimated Time (Minutes)": <10>
+"Actual Time (Minutes)": <10>
+},
+{
+"Description": <Build StackRestaurant completeTicket currentlist>,
+"Estimated Time (Minutes)": <25>
+"Actual Time (Minutes)": <45>
+},
+}
+
+
+
+
+
+
+Annotations
